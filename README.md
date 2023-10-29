@@ -1,5 +1,7 @@
 #  Into React Native ![My Skills](https://skillicons.dev/icons?i=react)
 
+This repository contains the second module that is part of the [Towards mobile applications](https://dbeles.notion.site/Towards-mobile-applications-31586fe8a5c7459ca95455448412dec3?pvs=4) workshop from Google Developer Student Clubs @ West University of Timisoara.
+
 ### 📜 Expo ecosystem briefing
 > Expo represents a set of tools that is built around React-Native making the life of the developer much easier. One of the main functionalities is the ecosystem that the Expo provides and the fact that you can create a React-Natve application within minutes. More details about how expo really works can be found [here](https://retool.com/blog/expo-cli-vs-react-native-cli).
 
