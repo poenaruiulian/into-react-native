@@ -13,7 +13,7 @@ This repository contains the second module that is part of the [Towards mobile a
 > 2. Have **Node.js** installed.
 >3. Open a terminal and write:
 >   - `npx create-expo-app my-app` - creates an expo app with the name *my-app*
->   - `cd my-app` - moves to the *my-app* directory
+>   - open the *my-app* directory in WebStorm Projects
 >   - `npx expo start` -  start the app
 > 4. Enjoy your app :D
 
