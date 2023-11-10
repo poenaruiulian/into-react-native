@@ -17,4 +17,4 @@ This repository contains the second module that is part of the [Towards mobile a
 >   - `npx expo start` -  start the app
 > 4. Enjoy your app :D
 
-### [🖥️ <u>Working with components</u>]()
+### [🖥️ <u>Working with components</u>](https://github.com/poenaruiulian/into-react-native/tree/main/working_with_components)
