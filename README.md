@@ -17,27 +17,4 @@ This repository contains the second module that is part of the [Towards mobile a
 >   - `npx expo start` -  start the app
 > 4. Enjoy your app :D
 
-### 🖥️ Already existent components (React Native’s defaults & Expo SDK)
-
-> Components are bits of code used to create React-Native applications. React-Native has some built-in components that can be used to create our app, such as `View`, `Text` and `Image`. React-Native already implements these components and can be used after we import them:
-> ``` js
-> import {Image, Text, View} from 'react-native';
-> ```
-> Styles can be applied using the `StyleSheet` library, which is an abstraction similar to CSS:
-> ```js
->   const styles = StyleSheet.create({
->     container: {
->      flex: 1,
->      backgroundColor: '#fff',
->      alignItems: 'center',
->      justifyContent: 'center',
->    },
->   });
-> 
-> ...
-> 
->   <View style={styles.container}>
->     ...
->   <View>
-> ```
-> Build-in components can be used for creating new custom ones so that we can create what we envisioned. More build-in React-Native components we can find [here](https://reactnative.dev/docs/intro-react-native-components) and if that is not enough Expo provides a lot of components too, [here](https://docs.expo.dev/versions/latest/).
+### [🖥️ <u>Working with components</u>]()
