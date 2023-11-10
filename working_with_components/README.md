@@ -40,5 +40,5 @@
 > Let's take a look at an example based on some of the components we learned before, and then you can sharpen your skills doing some of these [components](https://dbeles.notion.site/Custom-components-e8657f810ada41af829a0a56910b095f).
 
 <p align="center">
-<img src="./readme_images/kcomponent.png">
+<img src="./readme_images/kcomponent.png" height="450" width="400">
 </p>
