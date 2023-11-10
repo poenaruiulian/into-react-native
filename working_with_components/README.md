@@ -21,7 +21,7 @@
 > ```
 > Build-in components can be used for creating new custom ones so that we can create what we envisioned. More build-in React-Native components we can find [here](https://reactnative.dev/docs/intro-react-native-components) and if that is not enough 
 > 
-> Expo provides a lot of components too, [here](https://docs.expo.dev/versions/latest/). We can take as an example the [checkbox](https://docs.expo.dev/versions/latest/sdk/checkbox/) component.
+> Expo provides a lot of components too, [here](https://docs.expo.dev/versions/latest/). We can take as an example the [haptics](https://docs.expo.dev/versions/latest/sdk/haptics/) component.
 
 <p align="center">
 <img src="./readme_images/ios_basic_components.png" width="230" height="500">
