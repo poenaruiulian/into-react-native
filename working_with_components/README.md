@@ -32,7 +32,8 @@
 > React Native translates its code in native code and for that reason some components will look **different** on IOS vs Android. This leads to *inconsistent and unwanted behaviours*.
 
 <p align="center">
-<img src="./readme_images/difference.png" >
+<img src="./readme_images/ios_basic_components.png" width="230" height="500">
+<img src="./readme_images/android_basic_components.png" width="230" height="500">
 </p>
 
 > The solution to out problems is to "**do it ourselves**", so we create **custom** components. These are like cookies, we take basic ingredients and combine them to make the desired product. 
