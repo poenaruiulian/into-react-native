@@ -37,7 +37,7 @@
 </p>
 
 <p align="center">
-<img src="./readme_images/difference.png" width="230" height="500">
+<img src="./readme_images/difference.png">
 </p>
 
 > The solution to out problems is to "**do it ourselves**", so we create **custom** components. These are like cookies, we take basic ingredients and combine them to make the desired product. 
