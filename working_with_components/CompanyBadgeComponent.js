@@ -32,6 +32,7 @@ const styles = StyleSheet.create({
         justifyContent: 'center',
     },
     badgeContainer: {
+        overflow:'hidden',
         backgroundColor: "#fff",
         height: 500,
         width: 300,
@@ -41,12 +42,12 @@ const styles = StyleSheet.create({
     topContainer: {
         backgroundColor: "#214ac2",
         height: 320,
-        width: 300,
+        width: 400,
         alignItems: "center",
         borderTopLeftRadius: 30,
         borderTopRightRadius: 30,
-        borderBottomLeftRadius: 137,
-        borderBottomRightRadius: 137,
+        borderBottomLeftRadius: 250,
+        borderBottomRightRadius: 250,
     },
     notch: {
         height: 20,
