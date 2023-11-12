@@ -12,6 +12,7 @@ This repository contains the second module that is part of the [Towards mobile a
 > 1. Install **ExpoGo** from [![AppStore](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/expo-go/id982107779) or [![GooglePlay](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=en&gl=US).
 > 2. Have **Node.js** installed.
 >3. Open a terminal and write:
+>   - `npm i -g npx`
 >   - `npx create-expo-app my-app` - creates an expo app with the name *my-app*
 >   - open the *my-app* directory in WebStorm Projects
 >   - `npx expo start` -  start the app
