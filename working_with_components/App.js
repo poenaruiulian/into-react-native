@@ -4,8 +4,8 @@ import CompanyBadgeComponent from "./CompanyBadgeComponent";
 
 export default function App() {
     return (
-        // <BasicComponents/>
+        <BasicComponents/>
         // <KComponent/>
-        <CompanyBadgeComponent/>
+        // <CompanyBadgeComponent/>
     );
 }
