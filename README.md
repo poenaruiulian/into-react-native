@@ -19,4 +19,5 @@ This repository contains the second module that is part of the [Towards mobile a
 > 4. Enjoy your app :D
 
 ### [🖥️ <u>Working with components</u>](https://github.com/poenaruiulian/into-react-native/tree/main/working_with_components)
-### [🧭 <u>React Native Navigation</u>](https://github.com/poenaruiulian/into-react-native/tree/main/react_native_navigation)
+### [🧭 <u>React Native Navigation</u>](https://github.com/poenaruiulian/into-react-native/tree/main/react-native-navigation)
+
