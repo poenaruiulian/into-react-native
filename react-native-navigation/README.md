@@ -2,7 +2,7 @@
 
 #### General setup
 1. `npm install @react-navigation/native`
-2. `expo install react-native-screens react-native-safe-area-context`
+2. `npx expo install react-native-screens react-native-safe-area-context`
 
 #### Stack Navigation setup steps
 1. `npm install @react-navigation/native-stack`
