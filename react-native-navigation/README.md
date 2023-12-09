@@ -26,7 +26,7 @@
 
 #### Drawer Navigation setup steps
 1. `npm install @react-navigation/drawer`
-2. `expo install react-native-gesture-handler react-native-reanimated`
+2. `npx expo install react-native-gesture-handler react-native-reanimated`
 3. Add the following plugin in `babel.config.js`:
 ```js
   ...
