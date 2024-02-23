@@ -20,4 +20,6 @@ This repository contains the second module that is part of the [Towards mobile a
 
 ### [🖥️ <u>Working with components</u>](https://github.com/poenaruiulian/into-react-native/tree/main/working_with_components)
 ### [🧭 <u>React Native Navigation</u>](https://github.com/poenaruiulian/into-react-native/tree/main/react-native-navigation)
+### [🪝 <u>React Hooks</u>]()
+### [📶 <u>Fetch</u>]()
 

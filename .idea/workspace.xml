@@ -6,10 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="2c274302-13a0-42c7-b520-46f41a12e2f2" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/working_with_components/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/working_with_components/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/working_with_components/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/working_with_components/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/working_with_components/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/working_with_components/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/working_with_components/readme_images/android_basic_components.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/working_with_components/readme_images/difference.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/working_with_components/readme_images/ios_basic_components.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/working_with_components/readme_images/kcomponent.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +51,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/poe/into-react-native/react-native-navigation/images",
+    "last_opened_file_path": "/Users/poe/into-react-native",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -80,6 +81,7 @@
       <workItem from="1699641304764" duration="3460000" />
       <workItem from="1699645424718" duration="6358000" />
       <workItem from="1700904703933" duration="2281000" />
+      <workItem from="1708700935876" duration="259000" />
     </task>
     <servers />
   </component>
